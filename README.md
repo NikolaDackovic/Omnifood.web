@@ -23,7 +23,8 @@ The goal was to improve my skills in layout design, responsive techniques, and C
 
 ## How to Run
 
-Simply open the `index.html` file in any modern web browser.
+
+![Omnifood Preview][(path/to/screenshot.png)](https://nikoladackovic.github.io/Omnifood.web/)
 
 ---
 
@@ -34,11 +35,6 @@ Simply open the `index.html` file in any modern web browser.
 - Structuring clean and semantic HTML  
 - Working with Google Fonts and custom styles  
 
----
-
-## Preview
-
-![Omnifood Preview][(path/to/screenshot.png)](https://nikoladackovic.github.io/Omnifood.web/)
 
 ---
 
