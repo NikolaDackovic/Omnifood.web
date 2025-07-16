@@ -38,7 +38,7 @@ Simply open the `index.html` file in any modern web browser.
 
 ## Preview
 
-![Omnifood Preview](path/to/screenshot.png)
+![Omnifood Preview][(path/to/screenshot.png)](https://nikoladackovic.github.io/Omnifood.web/)
 
 ---
 
